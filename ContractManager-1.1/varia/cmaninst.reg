@@ -1,0 +1,16 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\HonySoft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\HonySoft\contractmanager]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\HonySoft\contractmanager\1.0]
+"postcodedb"="postcode.DB"
+"verkoperdb"="verkoper.DB"
+"contractdb"="contract.DB"
+"warmString"="\"900243\""
+"rtrString"="\"C20\",\"B14\""
+"vrzString"="\"B13\",\"C27\""
+"annString"="\"A08\""
+"bkrString"="\"008\""
+"UseWeekNummer"=dword:00000001
